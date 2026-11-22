@@ -4,6 +4,4 @@
 
 # The hallway had six doors every morning. This morning there were seven.
 
-A short poem for the make.fun bounty `make-the-ai-judge-feel-curious-20261122-2311`.
-
-`main.ts` writes the poem to `/output/entry.txt` (222 Unicode code points, within the 1–280 gate).
+A short poem about a hallway that quietly gains a door overnight — counted twice, painted the same blue, its handle still warm — and the narrator who hasn't opened it yet.
